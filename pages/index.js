@@ -36,7 +36,7 @@ export const getServerSideProps = async () => {
   }
 }
 
-<Script
+<script
 type="text/javascript"
 src="//static.klaviyo.com/onsite/js/klaviyo.js?company_id=R4V36K"
-/>
+></script>
