@@ -35,3 +35,8 @@ export const getServerSideProps = async () => {
     props: { products, bannerData },
   }
 }
+
+<Script
+type="text/javascript"
+src="//static.klaviyo.com/onsite/js/klaviyo.js?company_id=R4V36K"
+/>
